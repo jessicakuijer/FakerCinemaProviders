@@ -8,7 +8,7 @@ Provider for faker with real datas (real actors, actresses, directors, movies et
 [![Travis Build Status](https://img.shields.io/travis/JulienRAVIA/FakerCinemaProviders/master?style=flat-square)](https://travis-ci.org/JulienRAVIA/FakerCinemaProviders)
 
 A growing collection of useful Providers for [FakerPHP/Faker](https://github.com/FakerPHP/Faker) mostly ported to PHP from the [stympy/faker](https://github.com/stympy/faker) Ruby library.
-
+IMPORTANT : If [Fzaninotto/Faker](https://github.com/fzaninotto/Faker ) is requested during installation, replace line15 from composer.json (vendor/xylis) by "fakerphp/faker": "^1.12"
 ## Contents
 
 1. [Installation](#installation)
