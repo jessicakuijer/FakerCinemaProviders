@@ -7,7 +7,7 @@ Provider for faker with real datas (real actors, actresses, directors, movies et
 [![Packagist](https://img.shields.io/packagist/dt/xylis/faker-cinema-providers.svg?style=flat-square)](https://packagist.org/packages/xylis/faker-cinema-providers)
 [![Travis Build Status](https://img.shields.io/travis/JulienRAVIA/FakerCinemaProviders/master?style=flat-square)](https://travis-ci.org/JulienRAVIA/FakerCinemaProviders)
 
-A growing collection of useful Providers for [fzaninotto/faker](https://github.com/fzaninotto/faker) mostly ported to PHP from the [stympy/faker](https://github.com/stympy/faker) Ruby library.
+A growing collection of useful Providers for [FakerPHP/Faker](https://github.com/FakerPHP/Faker) mostly ported to PHP from the [stympy/faker](https://github.com/stympy/faker) Ruby library.
 
 ## Contents
 
